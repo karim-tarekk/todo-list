@@ -19,7 +19,7 @@ This is a simple Todo List website that allows users to manage and organize thei
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/karim-tarekk/todo-list.git
 ```
 
 2. Navigate to the project directory:
